@@ -163,7 +163,6 @@
 			],
 			"emulator-account": [
 				"NonFungibleToken",
-				"MetadataViews",
 				"ViewResolver",
 				"ExampleNFT",
 				"AddressUtils",
